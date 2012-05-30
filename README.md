@@ -4,7 +4,7 @@ MIT-Kinect
 Mathematical Imagery Trainer (for Kinect) Documentation
 
 Set-up
-
+---------------
 Don’t plug in your Kinect yet!
 
 To run the MIT on Windows, download the Kinect SDK Beta2 from here: http://www.microsoft.com/download/en/details.aspx?id=27876.  Most likely, your computer is running 32-bit Windows, so download and install the 3rd file. If it’s running 64-bit Windows, download and install the 3rd file. (To see what type of Windows your system is running, right-click My Computer, select Properties, and look under System > System Type: XX-bit Operating System)
